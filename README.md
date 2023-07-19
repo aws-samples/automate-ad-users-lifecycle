@@ -1,11 +1,6 @@
-## My Project
+## Amazon Workspaces Disaster Recovery Example
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This CloudFormation template creates a solution to automate the registration of a Workspace Directory, Creates a maintenance task to perform AD actions, and manages Amazon WorkSpaces instance lifecycles according to the presence of users in an AD OU.
 
 ## Security
 
